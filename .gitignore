@@ -1,0 +1,7 @@
+/frontend_go
+/.env
+/API_DOCUMENTATION.md
+/openapi.yaml
+/schema_postgres.sql
+/seed.sql
+/scripts.sql
